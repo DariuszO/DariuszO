@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I'm always start to learn new enviroments/languanges from the hardest-enterprise based tools without even knowing that.
 - 📫 How to reach me: 
--    [GMAIL](mailto:ochota.dariusz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
--    [3box](https://self.id/did:3:kjzl6cwe1jw148payi9i5hivhs9gkpl9c695kps0q8zsq9i74kxim5lh0ddrzci)
+-    [✉️](mailto:ochota.dariusz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+-    [📦](https://self.id/did:3:kjzl6cwe1jw148payi9i5hivhs9gkpl9c695kps0q8zsq9i74kxim5lh0ddrzci)
 -    [🕊](https://twitter.com/OchotaDariusz)
 -    [🤦‍♂️📘](https://www.facebook.com/darojimi)
 
@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 Buy me a lambo:
 
 
-BTC/BCH: [1NPZa3RAG...](https://www.blockchain.com/btc/address/1NPZa3RAG7zweuYMLJMtaFLne9sSrjvtT6) | [1DeadJim...](bitcoin:1DeadJim4W88mMEeK5QK4VJE1rsN8k3LPA)
+BTC/BCH: [1NPZa3RAG...](https://www.blockchain.com/btc/address/1NPZa3RAG7zweuYMLJMtaFLne9sSrjvtT6) | [1DeadJim...](https://www.blockchain.com/btc/address/1DeadJim4W88mMEeK5QK4VJE1rsN8k3LPA)
 
-ETH/ETC/BNB: 0x0dead31801d786fffc870a38fa8ff7fa4b5be53c
+[ETH](https://etherscan.io/address/0x0dead31801d786fffc870a38fa8ff7fa4b5be53c) / [ETC](https://blockscout.com/etc/mainnet/address/0x0dead31801d786fffc870a38fa8ff7fa4b5be53c) / [BNB](https://bscscan.com/address/0x0dead31801d786fffc870a38fa8ff7fa4b5be53c) 
