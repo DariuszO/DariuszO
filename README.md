@@ -23,5 +23,8 @@ Here are some ideas to get you started:
 
 
 Buy me a lambo:
+
+
 BTC/BCH: 1NPZa3RAG7zweuYMLJMtaFLne9sSrjvtT6
+
 ETH/ETC/BNB: 0x0DeAd31801D786fFfc870A38FA8FF7fa4b5Be53C
