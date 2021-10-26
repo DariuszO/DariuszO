@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 Buy me a lambo:
 
 
-BTC/BCH: 1NPZa3RAG7zweuYMLJMtaFLne9sSrjvtT6
+BTC/BCH: [1NPZa3RAG...](https://www.blockchain.com/bch/address/1NPZa3RAG7zweuYMLJMtaFLne9sSrjvtT6) | [1DeadJim...](bitcoin:1DeadJim4W88mMEeK5QK4VJE1rsN8k3LPA)
 
-ETH/ETC/BNB: 0x0DeAd31801D786fFfc870A38FA8FF7fa4b5Be53C
+ETH/ETC/BNB: 0x0dead31801d786fffc870a38fa8ff7fa4b5be53c
