@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 BTC/BCH: [1NPZa3RAG...](https://www.blockchain.com/btc/address/1NPZa3RAG7zweuYMLJMtaFLne9sSrjvtT6) | [1DeadJim...](https://www.blockchain.com/btc/address/1DeadJim4W88mMEeK5QK4VJE1rsN8k3LPA)
 
-[ETH](https://etherscan.io/address/0x0dead31801d786fffc870a38fa8ff7fa4b5be53c) / [ETC](https://blockscout.com/etc/mainnet/address/0x0dead31801d786fffc870a38fa8ff7fa4b5be53c) / [BNB](https://bscscan.com/address/0x0dead31801d786fffc870a38fa8ff7fa4b5be53c) 
+[ETH](https://etherscan.io/address/0x0dead31801d786fffc870a38fa8ff7fa4b5be53c) | [ETC](https://blockscout.com/etc/mainnet/address/0x0dead31801d786fffc870a38fa8ff7fa4b5be53c) | [BNB](https://bscscan.com/address/0x0dead31801d786fffc870a38fa8ff7fa4b5be53c) 
