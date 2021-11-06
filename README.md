@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 -    [🤦‍♂️📘](https://www.facebook.com/darojimi)
 
 
+![wtf](https://runway.com/images/Huh.gif)
 
 
 
-Buy me a lambo:
+
+✨Buy me a lambo:
 
 
 BTC/BCH: [1NPZa3RAG...](https://www.blockchain.com/btc/address/1NPZa3RAG7zweuYMLJMtaFLne9sSrjvtT6) | [1DeadJim...](https://www.blockchain.com/btc/address/1DeadJim4W88mMEeK5QK4VJE1rsN8k3LPA)
