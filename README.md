@@ -22,7 +22,12 @@ Here are some ideas to get you started:
 ![wtf](https://runway.com/images/Huh.gif)
 
 
-
+<a href="https://github.com/dariuszo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dariuszo&count_private=true&hide=stars&hide_border=true&show_icons=true&theme=onedark&custom_title=My%20GitHub%20Stats!" />
+</a>
+<a href="https://github.com/dariuszo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariuszo&hide_border=true&layout=compact&count_private=true&hide=stars&show_icons=true&theme=onedark&custom_title=Languages%20I%20Use!" />
+</a>
 
 ✨Buy me a lambo:
 
