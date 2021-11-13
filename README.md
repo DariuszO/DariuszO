@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 </a>
 
 ✨Buy me a lambo:
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G36YXEW)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G36YXEW) 
+
+![lambo](https://waves.exchange/img/icons/lambo-notification-icon.svg)
 
 BTC/BCH: [1NPZa3RAG...](https://www.blockchain.com/btc/address/1NPZa3RAG7zweuYMLJMtaFLne9sSrjvtT6) | [1DeadJim...](https://www.blockchain.com/btc/address/1DeadJim4W88mMEeK5QK4VJE1rsN8k3LPA)
 
