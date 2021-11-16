@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ✨Buy me a lambo:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G36YXEW) 
 
-[![lambo](https://waves.exchange/img/icons/lambo-notification-icon.svg)](ethereum:0xd02300711751198e9B4Fb506f7297d80756C86F9?amount=0.0001)
+[![lambo](https://i.imgur.com/kbKvqLy.png)](ethereum:0xd02300711751198e9B4Fb506f7297d80756C86F9?amount=0.0001)
 
 BTC/BCH: [1NPZa3RAG...](https://www.blockchain.com/btc/address/1NPZa3RAG7zweuYMLJMtaFLne9sSrjvtT6) | [1DeadJim...](https://www.blockchain.com/btc/address/1DeadJim4W88mMEeK5QK4VJE1rsN8k3LPA)
 
