@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 ✨Buy me a lambo:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G36YXEW) 
 
-[![Imgur](https://imgur.com/kbKvqLy)](ethereum:0xd02300711751198e9B4Fb506f7297d80756C86F9?amount=0.0001)
+[![Imgur](https://i.imgur.com/kbKvqLy.png)](ethereum:0xd02300711751198e9B4Fb506f7297d80756C86F9?amount=0.0001)
 
 BTC/BCH: [1NPZa3RAG...](https://www.blockchain.com/btc/address/1NPZa3RAG7zweuYMLJMtaFLne9sSrjvtT6) | [1DeadJim...](https://www.blockchain.com/btc/address/1DeadJim4W88mMEeK5QK4VJE1rsN8k3LPA)
 
 [ETH](https://etherscan.io/address/0x0dead31801d786fffc870a38fa8ff7fa4b5be53c) | [ETC](https://blockscout.com/etc/mainnet/address/0x0dead31801d786fffc870a38fa8ff7fa4b5be53c) | [BNB](https://bscscan.com/address/0x0dead31801d786fffc870a38fa8ff7fa4b5be53c) 
 
 
-[![Imgur](https://imgur.com/FVUn9c8l)](https://invitation.codes/?invite=Gc9uaMUxo)
+[![Imgur](https://i.imgur.com/FVUn9c8.png)](https://invitation.codes/?invite=Gc9uaMUxo)
