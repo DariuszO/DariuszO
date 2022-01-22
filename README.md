@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 </a>
 
 ✨Buy me a lambo:
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G36YXEW) 
 
 
 [![Imgur](https://i.imgur.com/kbKvqLy.png)](ethereum:0xd02300711751198e9B4Fb506f7297d80756C86F9?amount=0.0001)
